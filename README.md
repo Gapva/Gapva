@@ -9,10 +9,10 @@ while you're here you might wanna take a look at some of my repositories
 # contact
 leave an issue or a PR on one of my repositories
 
-# languages i know
-(🔷 it's one of my main languages, 🔶 i use it sometimes, 🌙 i know the language very well but i don't use it, ⚫ i know it kinda well but i don't really use it at all)
-- 🔷 python
+# languages i use
+(🔷 it's one of my main languages, 🔶 i use it sometimes, 🌙 i use it when i have to, ⚫ i rarely need to use it)
 - 🔷 gdscript
+- 🔷 python
 - 🔶 javascript
 - 🌙 lua
 - 🌙 java
