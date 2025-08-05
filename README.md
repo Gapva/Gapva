@@ -1,7 +1,7 @@
 # hi
 while you're here you might wanna take a look at some of my repositories
 
-# check out nova, my new rhythm game
+# check out novastra, my new rhythm game
 play it on windows and linux [on itch](https://pyrama.itch.io/nova)
 
 <p align="left">
