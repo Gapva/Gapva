@@ -1,5 +1,5 @@
 # hi
-i'm Laith; a software developer, game designer, musician, motion graphic artist, and [OSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)-lover.
+i'm Laith; a software developer, game designer, musician, motion graphic artist, [OSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)-lover, and mega extrovert
 
 # you may know me for
 
@@ -9,9 +9,6 @@ i'm Laith; a software developer, game designer, musician, motion graphic artist,
 | [my music!](https://www.youtube.com/@pyrule) | for over 11 years, i have been writing and producing various genres of music that have been heard by millions; whether it be in others' YouTube videos, games or other platforms |
 | [Novastra](https://pyrama.itch.io/nova) | a 100% solo rhythm game i started developing in late 2024. before the game released, some playtesters had posted some recordings of the game on social media, reaching millions of views |
 | [Rhythia](https://github.com/David20122/sound-space-plus) | an aim-based rhythm game that i've helped develop since its inception in 2022 and that i owned briefly in 2023. recordings of the game have amassed tens of millions of views on social media. unfortunately, as of 2025, i have dropped all development and any contributions due to various circumstances within the community |
-
-# contact
-leave an issue or a PR on one of my repositories
 
 # language tier list
 
