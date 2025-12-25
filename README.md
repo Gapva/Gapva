@@ -1,5 +1,5 @@
 # hi
-i'm Laith; a software developer, game designer, musician, motion graphic artist, [OSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)-lover, and mega extrovert
+i'm Laith; a software developer, game designer, musician, motion graphic artist, [OSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)-supporter, and mega extrovert
 
 # you may know me for
 
