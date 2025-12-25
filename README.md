@@ -8,7 +8,7 @@ i'm Laith; a software developer, game designer, musician, motion graphic artist,
 | [Novastra](https://pyrama.itch.io/nova) | a 100% solo rhythm game i started developing in late 2024. before the game was released, some playtesters had posted some recordings of the game on social media, reaching millions of views |
 | [Super Mario 127](https://charpurrr.itch.io/super-mario-127) | a well-known Mario fan-game and official sequel to [Super Mario 63](https://runouw.com/games/sm63/) with a heavy focus on fast-paced movement. i currently assist with programming, sound design, graphics and public relations |
 | [my music!](https://www.youtube.com/@pyrule) | for over 11 years, i have been writing and producing various genres of music that have been heard by millions; whether it be in others' YouTube videos, games or other platforms |
-| [Rhythia](https://github.com/David20122/sound-space-plus) | an aim-based rhythm game that i've helped develop since its inception in 2022 (as Sound Space+) and that i owned briefly in 2023. recordings of the game have amassed tens of millions of views on social media. as of 2024, i have turned over the codebase to the rest of the community |
+| [Rhythia](https://github.com/David20122/sound-space-plus) | an aim-based rhythm game that i've helped develop since its inception in 2022 (as Sound Space+) and that i owned briefly in 2023. recordings of the game have amassed tens of millions of views on social media. as of 2024, i have turned over the codebase to the community |
 
 # language tier list
 
