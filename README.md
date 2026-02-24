@@ -12,6 +12,11 @@ i'm Laith; a software developer, game designer, musician, motion graphic artist,
 
 # language tier list
 
+> psst, hey
+> 
+> before i touch a nerve with someone as a result of the below tier lists,
+> you should probably see [this](https://github.com/Gapva/Gapva/blob/main/tier-list-clarification.md)
+
 | tier | language(s) |
 | - | - |
 | GOAT | ![Nim](https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
